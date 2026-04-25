@@ -23,3 +23,7 @@ The verifier is designed for a bridge-like T-network:
 * Calculates Nodal Voltage ($V_a$) and branch currents.
 * Performs **Power Analysis** to verify the Law of Conservation of Energy.
 * Provides a step-by-step breakdown of each source's effect.
+* ## 📊 Program Execution Output
+Below is the screenshot of the C program successfully verifying the Superposition Theorem:
+
+![Output Verification](Output%20verifier.png)
